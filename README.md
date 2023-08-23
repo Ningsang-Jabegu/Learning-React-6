@@ -1,15 +1,15 @@
-# React Project 6 Documentation (Static Page Dark and Light Mode)
+# React Project 6 Documentation (Tenzies Game)
 
-<p>React Fun Fact Dark Mode</p>
+<p>Tenzies Game Dark Mode</p>
 <img src="https://github.com/Ningsang-Jabegu/Learning-React-6/blob/main/dark-mode-screenshot.png" alt="Project Screenshots" height="400">
 <br>
-<p>React Fun Fact light Mode</p>
+<p>Tenzies Game light Mode</p>
 <img src="https://github.com/Ningsang-Jabegu/Learning-React-6/blob/main/light-mode-screenshot.png" alt="Project Screenshots" height="400">
 
 
 ## Overview
 
-This documentation provides an insight into **React Project 5**, a simple project developed for learning purposes using the React library. The project aims to demonstrate fundamental concepts of React (components) and is intended for educational purposes. Project 5 from (<a href="https://scrimba.com/learn/learnreact" target="_blank">https://scrimba.com/learn/learnreact</a>)
+This documentation provides an insight into **React Project 6**, a simple project developed for learning purposes using the React library. The project aims to demonstrate fundamental concepts of React (components) and is intended for educational purposes. Project 6 from (<a href="https://scrimba.com/learn/learnreact" target="_blank">https://scrimba.com/learn/learnreact</a>)
 
 ## Project Description
 
