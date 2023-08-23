@@ -5,6 +5,9 @@
 <br>
 <p>Tenzies Game light Mode</p>
 <img src="https://github.com/Ningsang-Jabegu/Learning-React-6/blob/main/light-mode-screenshot.png" alt="Project Screenshots" height="400">
+<br>
+<p>Tenzies Game Winning Screen</p>
+<img src="https://github.com/Ningsang-Jabegu/Learning-React-6/blob/main/winning-screenshot.png" alt="Project Screenshots" height="400">
 
 
 ## Overview
